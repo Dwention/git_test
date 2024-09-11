@@ -1,1 +1,5 @@
 Open hello_world.text add some text to it,save it ant stage it.
+
+An atmoic commit is a commit that inludes changes related to only one feature or task of your program.
+
+Changing the Git commit message editor
